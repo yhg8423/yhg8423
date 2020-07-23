@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I am Hyeonggeun! 👋👋👋
 
+- I am currently Undergraduate Student majoring in Transdisciplinary Studies at DGIST
+- My research interests are Human-Computer Interaction (HCI), Interaction at Scale, Human-AI Interaction, and Interactive Web.
+- [Here](www.hyeonggeun.com) for more details
 <!--
 **yhg8423/yhg8423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
