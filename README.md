@@ -5,8 +5,8 @@
 
 ### Hi, I am Hyeonggeun! 👋👋👋
 
-- 🔎 I am currently Researcher at Agency for Defense Development. 
-- 🌱 I am also Co-founder of Harooo Communication (@harooo-comm) and Companoid Labs.
+- 🔎 I am currently a co-founder, partner, & CTO at Companoid Labs and a co-founder of Herbert Computer, Inc. 
+- 🌱 I am also Co-founder of Harooo Communication (@harooo-comm).
 - 🎓 I received B.S in Convergence Engineering DGIST.
-- 💡 My research interests are Human-Computer Interaction (HCI), Interaction at Scale, Human-AI Interaction, Computational Interaction, Usable Privacy, and Interactive Web.
+- 💡 My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, Computational Interaction, and Interaction at Scale.
 - 💬 [Here](https://www.hyeonggeun.com) for more details
